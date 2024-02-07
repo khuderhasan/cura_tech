@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "767729924107",
+    "project_id": "curatech-40df8",
+    "storage_bucket": "curatech-40df8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767729924107:android:8eb9715630f397bdacaf0e",
+        "android_client_info": {
+          "package_name": "com.example.cura_tech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkTvH-tSgnW3A8zMiBoqjCmoC2ZI8JG9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
