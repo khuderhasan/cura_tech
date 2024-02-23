@@ -1,3 +1,4 @@
+![Screenshot_2024-02-23-11-10-27-401_com example cura_tech](https://github.com/khuderhasan/cura_tech/assets/104022210/d1dc230a-27f7-4665-8142-55588969c88b)
 # cura_tech
 
 Health care system application 
