@@ -1,6 +1,6 @@
 # cura_tech
 
-A new Flutter project.
+Health care system application 
 
 ## Getting Started
 
