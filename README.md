@@ -1,3 +1,5 @@
+![Screenshot_2024-02-23-11-10-36-362_com example cura_tech](https://github.com/khuderhasan/cura_tech/assets/104022210/95dafc37-398a-41d7-b045-c24f1cea9e2d)
+![Screenshot_2024-02-23-11-10-32-824_com google android permissioncontroller](https://github.com/khuderhasan/cura_tech/assets/104022210/5ba1b871-2c67-4bac-bb0c-0a5101d61a9c)
 ![Screenshot_2024-02-23-11-10-27-401_com example cura_tech](https://github.com/khuderhasan/cura_tech/assets/104022210/d1dc230a-27f7-4665-8142-55588969c88b)
 # cura_tech
 
