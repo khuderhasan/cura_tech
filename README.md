@@ -11,9 +11,7 @@ Health care system application
 | ![User send report screen ](https://github.com/khuderhasan/cura_tech/assets/104022210/d588c71b-ee4b-4fa8-93ef-e48c6577fd47) | ![User app drawer](https://github.com/khuderhasan/cura_tech/assets/104022210/51125f0b-e82c-48ef-bfe5-486555f870f1) | ![User home screen](https://github.com/khuderhasan/cura_tech/assets/104022210/04b99fc7-cae2-4fbe-bb95-354113a7ed2f) | ![User location permission](https://github.com/khuderhasan/cura_tech/assets/104022210/751e35f7-6a8b-425c-858c-40b9427fd295) | 
 
 
-| ![profile details screen](https://github.com/khuderhasan/cura_tech/assets/104022210/62daa1bb-37a9-421a-9e83-5a9299108fab) | 
-![Admin reports screen](https://github.com/khuderhasan/cura_tech/assets/104022210/a1a8a188-5f5b-4863-ba7d-5580880679af) | 
-![Admin all patients screen](https://github.com/khuderhasan/cura_tech/assets/104022210/f7c29792-a7fa-4006-a8de-3415a2381e02) |
+| ![profile details screen](https://github.com/khuderhasan/cura_tech/assets/104022210/62daa1bb-37a9-421a-9e83-5a9299108fab) | ![Admin reports screen](https://github.com/khuderhasan/cura_tech/assets/104022210/a1a8a188-5f5b-4863-ba7d-5580880679af) | ![Admin all patients screen](https://github.com/khuderhasan/cura_tech/assets/104022210/f7c29792-a7fa-4006-a8de-3415a2381e02) |
 |---|---|---|
 
 ## Getting Started
