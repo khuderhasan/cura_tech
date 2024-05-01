@@ -3,7 +3,7 @@
 
 Health care system application 
 
-<img src="[https://playerzon.com/asset/download.png](https://storage.googleapis.com/cms-storage-bucket/70760bf1e88b184bb1bc.png)" width="200"></img>
+<img src="https://playerzon.com/asset/download.png](https://storage.googleapis.com/cms-storage-bucket/70760bf1e88b184bb1bc.png)" width="200"></img>
 
 ## 🖼 Screenshots
 | ![splash screen](https://github.com/khuderhasan/cura_tech/assets/104022210/bf8e2207-07ac-4c7b-b408-ddaa26da6290) | ![intro screen](https://github.com/khuderhasan/cura_tech/assets/104022210/57b3a7b0-0f3a-4e3c-8439-31c0aa948b14) | ![signup screen](https://github.com/khuderhasan/cura_tech/assets/104022210/2b654bc1-e108-458b-bbc8-b080ea63665d) | ![login screen](https://github.com/khuderhasan/cura_tech/assets/104022210/8b6af758-23d4-45b5-b790-81acb6f3db97) | 
