@@ -3,7 +3,7 @@
 
 Health care system application 
 
-<a href="https://drive.google.com/file/d/18sy49tN9OuTGA6b2BSEyy3HHYSuPOQOI/view?usp=sharing"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
+<a href="[https://drive.google.com/file/d/18sy49tN9OuTGA6b2BSEyy3HHYSuPOQOI/view?usp=sharing](https://www.google.com/url?sa=i&url=https%3A%2F%2Fflutter.dev%2Fbrand&psig=AOvVaw0jFK8c1poRni60U2kFGeHW&ust=1714660098896000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCFo-XU7IUDFQAAAAAdAAAAABAE)"><img src="[https://playerzon.com/asset/download.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fflutter.dev%2Fbrand&psig=AOvVaw0jFK8c1poRni60U2kFGeHW&ust=1714660098896000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCFo-XU7IUDFQAAAAAdAAAAABAE)" width="200"></img></a>
 
 ## 🖼 Screenshots
 | ![splash screen](https://github.com/khuderhasan/cura_tech/assets/104022210/bf8e2207-07ac-4c7b-b408-ddaa26da6290) | ![intro screen](https://github.com/khuderhasan/cura_tech/assets/104022210/57b3a7b0-0f3a-4e3c-8439-31c0aa948b14) | ![signup screen](https://github.com/khuderhasan/cura_tech/assets/104022210/2b654bc1-e108-458b-bbc8-b080ea63665d) | ![login screen](https://github.com/khuderhasan/cura_tech/assets/104022210/8b6af758-23d4-45b5-b790-81acb6f3db97) | 
