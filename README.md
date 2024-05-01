@@ -1,5 +1,5 @@
 
-# cura_tech
+## CuraTech
 
 Health care system application 
 
