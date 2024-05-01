@@ -4,8 +4,7 @@
 Health care system application 
 
 ## 🖼 Screenshots
-
-| ![splash screen](https://github.com/khuderhasan/cura_tech/assets/104022210/bf8e2207-07ac-4c7b-b408-ddaa26da6290) |
+|![splash screen](https://github.com/khuderhasan/cura_tech/assets/104022210/bf8e2207-07ac-4c7b-b408-ddaa26da6290) |
 ![intro screen](https://github.com/khuderhasan/cura_tech/assets/104022210/57b3a7b0-0f3a-4e3c-8439-31c0aa948b14) |
 |---|---|---|
 | ![signup screen](https://github.com/khuderhasan/cura_tech/assets/104022210/2b654bc1-e108-458b-bbc8-b080ea63665d) | !
