@@ -14,6 +14,7 @@ Health care system application
 | ![profile details screen](https://github.com/khuderhasan/cura_tech/assets/104022210/62daa1bb-37a9-421a-9e83-5a9299108fab) | 
 ![Admin reports screen](https://github.com/khuderhasan/cura_tech/assets/104022210/a1a8a188-5f5b-4863-ba7d-5580880679af) | 
 ![Admin all patients screen](https://github.com/khuderhasan/cura_tech/assets/104022210/f7c29792-a7fa-4006-a8de-3415a2381e02) |
+|---|---|---|
 
 ## Getting Started
 
